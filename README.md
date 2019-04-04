@@ -23,8 +23,20 @@ cmd+shift+\ 代码块之间跳转
 cmd+上下方向键  文件头文件尾   
 option+shift+方向键  选中文本  
 cmd+shift+方向键 选中一行  
-cmd+delete 删除左侧所有内容  
-fn+delete 删除右侧所有内容  
+cmd+delete 删除光标左侧所有内容  
+fn+delete 删除光标右侧所有内容 
+cmd+shift+k 删除整行  
+cmd+x 剪切当前行  
+cmd+enter 直接换行  
+option+上下方向键  移动当前行  
+option+shift+上下方向键  复制当前行  
+cmd+/ 代码注释  
+option+shift+f 代码格式化  
+control+t 交换光标左右字符  
+control+j 合并行  
+cmd+u 撤销  
+
+
 
 
 

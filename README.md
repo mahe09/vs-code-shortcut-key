@@ -1,5 +1,5 @@
 ### vs-code-shortcut-key  目前只整理了mac快捷键
-cmd+shift+p 打开命令窗口
+cmd+shift+p 打开命令窗口  
 cmd+shift+e 资源管理器
 cmd+shift+f 搜索
 cmd+shift+g 打开git
